@@ -29,3 +29,6 @@ Here are the currently supported pattern names:
 
 A puredata implementation of the algorithm is available at http://patchstorage.com/chordetector_pd/.
 And one suitable for mobile (using MobMuPlat) here http://patchstorage.com/chordetector_pd_mobile/.
+
+The concept was presented at the "Monaco Startup Weekend 2015"  ( http://www.up.co/communities/monaco/monaco/startup-weekend/5469 ) with the name of JamAlong, project, even though following the rules of the competition, none of this code was used in that occasion, and the prototype was developed using Max/MSP (https://cycling74.com/products/max/). Here the slides that were presented in that occasion: 
+http://www.slideshare.net/MarcoMerlin/jamalong-edited-short-47964215.
