@@ -27,4 +27,5 @@ Here are the currently supported pattern names:
 'maj7',...
 'min7',...
 
-
+A puredata implementation of the algorithm is available at http://patchstorage.com/chordetector_pd/.
+And one suitable for mobile (using MobMuPlat) here http://patchstorage.com/chordetector_pd_mobile/.
